@@ -7,9 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Career transition professional from Accounting to Full Stack Development, with strong leadership and teamwork experience. Skilled in front-end (React, Angular, Vue) and back-end (NestJS, SQL), as well as Typescript, TailwindCSS, Git and Agile methodologies (Scrum). Developed impactful projects, including a profitable barbershop app and an ongoing micro SaaS for beauty and tattoo studios. Currently enrolled in Generation’s Full Stack JS bootcamp, deepening technical expertise, with upper-intermediate English.
 
 * 🌍  I'm based in Goiânia - GO.
-* 🖥️  See my portfolio at [30barber - App para gerenciamento de barbearia](http://https://joao30barber.vercel.app/)
 * ✉️  You can contact me at [bennerdias.dev@gmail.com](mailto:bennerdias.dev@gmail.com)
-* 🧠  I'm currently learning React
+* 🧠  I'm currently deepening my knowledge in React.
 
 ### Socials
 
